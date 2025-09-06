@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,threejs,javascript,typescript,react,next,vue,nuxtjs,vite,vitest,wasm,nodejs,express,nestjs,python,fastapi,java,spring,go,dart,flutter,mongodb,dynamodb,postgresql,mysql,redis,rabbitmq,kafka,git,githubactions,jenkins,aws,terraform,docker,kubernetes,grafana,elasticsearch,opencv,tensorflow,linux,bash,arch,nix,neovim,obsidian" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,threejs,javascript,typescript,react,next,vue,nuxtjs,vite,vitest,wasm,nodejs,express,nestjs,python,fastapi,java,spring,go,dart,flutter,mongodb,dynamodb,postgresql,mysql,redis,rabbitmq,kafka,git,githubactions,jenkins,aws,terraform,docker,kubernetes,grafana,elasticsearch,opencv,pytorch,linux,bash,arch,nix,neovim,obsidian" />
   </a>
 </div>
 
