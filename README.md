@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Nguyen Nhon <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" height="40"/>
+  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Nhơn <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" height="40"/>
 </h1>
 
 ### About me  💻
