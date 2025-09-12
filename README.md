@@ -4,8 +4,6 @@
 
 ### About me  💻
 
-
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Face%20with%20Closed%20Eyes.png" alt="Kissing Face with Closed Eyes" width="25" height="25" /> I'm a `Fullsnack-overflow Developer` \
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /> My hobbies: `touching grass 🍀` `collecting books which I will never read `  \
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> I’m currently learning `System Design` `AI Engineering` \
@@ -21,7 +19,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,threejs,javascript,typescript,react,next,vue,nuxtjs,vite,vitest,wasm,nodejs,express,nestjs,python,fastapi,java,spring,go,dart,flutter,mongodb,dynamodb,postgresql,mysql,redis,rabbitmq,kafka,git,githubactions,jenkins,aws,terraform,docker,kubernetes,grafana,elasticsearch,opencv,pytorch,linux,bash,arch,nix,neovim,obsidian" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,threejs,react,nextjs,vue,nuxtjs,vite,vitest,wasm,nodejs,express,nestjs,py,fastapi,java,spring,go,dart,flutter,mongodb,dynamodb,postgresql,mysql,redis,rabbitmq,kafka,git,githubactions,jenkins,aws,terraform,docker,kubernetes,grafana,prometheus,elasticsearch,opencv,pytorch,linux,bash,arch,nix,neovim,obsidian" />
   </a>
 </div>
 
